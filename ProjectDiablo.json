@@ -1,0 +1,71 @@
+{
+    "classic_game_settings": {
+        "audio": {
+            "sound_mixer": 0,
+            "master_volume": 1,
+            "music_volume": 1,
+            "positional_bias": 0,
+            "npc_speech": 2,
+            "options_music": 1,
+            "options_music_volume": 4
+        },
+        "video": {
+            "contrast": 75,
+            "gamma": 105,
+            "perspective": 0,
+            "light_quality": 2,
+            "blended_shadows": 1
+        },
+        "map": {
+            "automapfade": 3,
+            "automap_centers": 1,
+            "automap_party": 1,
+            "automap_party_names": 1,
+            "automap_left": 0,
+            "automapmode": 0
+        },
+        "ui": {
+            "show_hp_text": 1,
+            "show_mp_text": 1,
+            "help_menu": 1,
+            "popuphireling": 1,
+            "always_run": 1,
+            "mini_panel": 1
+        },
+        "bnet": {
+            "skip_to_open": 0,
+            "aux_battle_net": "216.148.246.35",
+            "lasttcpip": "",
+            "preferred_realm": "ProjectD2",
+            "default_channel": "",
+            "last_bnet": "Fety",
+            "max_player": 8,
+            "diff_level": 2,
+            "lvl_rest": 666,
+            "selected_game_server": 4,
+            "loot_alloc": 0
+        },
+        "other": {
+            "lng_file": "",
+            "installpath": "F:\\Pd2s10\\Diablo II Clean install\\Diablo II\\",
+            "save_path": "F:\\Pd2s10\\Diablo II Clean install\\Diablo II\\Save\\"
+        }
+    },
+    "pd2_game_settings": {
+        "equipment_lock": false,
+        "buff_timers": true,
+        "quick_cast": true,
+        "skill_bar": true,
+        "screenshake": true,
+        "dps": true,
+        "belt_status": true,
+        "auras": {
+            "dev_aura": 0,
+            "max_level_aura": 0,
+            "rathma_aura": 0,
+            "dclone_aura": 0,
+            "pvp_aura": 0,
+            "lucion_aura": 0
+        }
+    }
+}
